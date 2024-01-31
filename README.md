@@ -12,3 +12,4 @@ Throughout the project, key steps involved:
 4. Enhanced Interactivity: Leveraged features like filters, slicers, and drill-down options to enhance user interactivity.
 5. Optimized Data Modeling: Structured and optimized data models for improved report performance.
 6. User-Centric Design: Ensured a user-centric design, incorporating intuitive elements for a seamless and enriched user experience.
+7. Advanced Power Query Concepts: Employed advanced Power Query concepts like merge and append for seamless data integration and transformation.
